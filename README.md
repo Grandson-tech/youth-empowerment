@@ -1,5 +1,7 @@
 # Favoured Youths Mentors Website
 
+[![Deployed on GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue?style=flat-square)](https://grandson-tech.github.io/youth-empowerment/)
+
 A modern, responsive website for Favoured Youths Mentors, a youth mentorship organization based in Narok, Kenya. The website is built using HTML, Tailwind CSS, and vanilla JavaScript.
 
 ## Features
